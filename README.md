@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 </a>
 
 
-
 <a href="https://github.com/yungson">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=yungson&layout=compact" />
 </a>
