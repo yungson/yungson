@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning!
-- 🌱 my blog: https://yungson.github.io/
 - 🌱 Fun fact: defeating oneself is actually the biggest success
 <!--
 **yungson/yungson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
