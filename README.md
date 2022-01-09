@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning!    
+🌱 I’m Yongsheng Li!
 🔭 Fun fact: defeating oneself is actually the biggest success
 <!--
 
